@@ -15,6 +15,7 @@
 		2C228080268F3870002EDB4C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2C22807E268F3870002EDB4C /* LaunchScreen.storyboard */; };
 		2C22808B268F3870002EDB4C /* PreworkTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C22808A268F3870002EDB4C /* PreworkTests.swift */; };
 		2C228096268F3870002EDB4C /* PreworkUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C228095268F3870002EDB4C /* PreworkUITests.swift */; };
+		2C2280A6268FC5B7002EDB4C /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C2280A5268FC5B7002EDB4C /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		2C228091268F3870002EDB4C /* PreworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PreworkUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C228095268F3870002EDB4C /* PreworkUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreworkUITests.swift; sourceTree = "<group>"; };
 		2C228097268F3870002EDB4C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2C2280A5268FC5B7002EDB4C /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				2C228073268F386F002EDB4C /* AppDelegate.swift */,
 				2C228075268F386F002EDB4C /* SceneDelegate.swift */,
 				2C228077268F386F002EDB4C /* ViewController.swift */,
+				2C2280A5268FC5B7002EDB4C /* SettingsViewController.swift */,
 				2C228079268F386F002EDB4C /* Main.storyboard */,
 				2C22807C268F3870002EDB4C /* Assets.xcassets */,
 				2C22807E268F3870002EDB4C /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				2C228078268F386F002EDB4C /* ViewController.swift in Sources */,
 				2C228074268F386F002EDB4C /* AppDelegate.swift in Sources */,
 				2C228076268F386F002EDB4C /* SceneDelegate.swift in Sources */,
+				2C2280A6268FC5B7002EDB4C /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
